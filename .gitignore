@@ -1,0 +1,4 @@
+node_modules
+src/js/vendor
+src/js/dev.browserify-shim-test.js
+src/js/lib.browserify-shim-test.js
