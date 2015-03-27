@@ -1,7 +1,7 @@
 module.exports = {
-	"jquery-ui": {
+	"./src/js/vendor/jquery-ui/jquery-ui.js": {
 		"depends": {
-			"jquery": "jQuery"
+			"./src/js/vendor/jquery/dist/jquery.js": "jQuery"
 		}
 	}
 };
