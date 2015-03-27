@@ -13,8 +13,8 @@
   },
   "browserify-shim": "./shims.js",
   "devDependencies": {
-    "browserify": "4.2.3",
-    "browserify-shim": "3.8.2"
+    "browserify": "^9.0.3",
+    "browserify-shim": "^3.8.3"
   },
   "engine": "node >= 0.10",
   "dependencies": {}
