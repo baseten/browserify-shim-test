@@ -1,3 +1,3 @@
 #Browserify Shim Test
 
-Do `bower install` + `npm install` then run `grunt`
+Run `./index.js` and open `src/index.html` in a browser via a local server to see if the bundle works.
